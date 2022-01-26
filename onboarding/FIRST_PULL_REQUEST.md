@@ -1,4 +1,4 @@
-# My First PR
+# Your First PR
 
 Hi, people! How are you doing? In this doc, we will learn about the steps to make our first PR. If any step is wrong or shallow, please give feedback. We're counting on you.
 
@@ -13,11 +13,15 @@ Hi, people! How are you doing? In this doc, we will learn about the steps to mak
 
 For the first part, it is necessary to clone the repository where we will work on your local PC. For this, open Git and type the following command:
 
-*git clone "repository of your choice"* 
+````
+git clone "repository of your choice" 
+````
 
-After this, we will create a new branch to work On the project. For this, we will use:
+After this, we will create a new branch to work on the project. For this, we will use:
 
-*git checkout -b "name of the issue"*
+````
+git checkout -b "name of the issue"
+````
 
 ### 2. Start working on the project
 
@@ -27,19 +31,27 @@ Self-explanatory. :D
 
 After the modifications are made, it's time for prepare to PR. Go to the root of your project, open Git and type this:
 
-*git status*
+````
+git status
+````
 
 This command will highlight the files that were modified by you. If you want these files on the PR, type:
 
-*git add "each one of the files"*
+````
+git add "each one of the files"
+````
 
 After this, we have to save the project. For this, type:
 
-*git commit -m "commentary about the update"*
+````
+git commit -m "commentary about the update"
+````
 
 This command saves the project and keeps a commentary about the contents of the update. Finally, we have to upload the local repository. Type:
 
-*git push origin HEAD*
+````
+git push origin HEAD
+````
 
 ### 4. Doing the PR
 
