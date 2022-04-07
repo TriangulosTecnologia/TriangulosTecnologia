@@ -1,3 +1,3 @@
 # Triângulos Tecnologia
 
-- [Engineering](./ENGINEERING.md)
+- [Engineering](./engineering/readme.md)
