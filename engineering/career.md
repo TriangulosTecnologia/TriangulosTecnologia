@@ -45,7 +45,6 @@ The table below shows the roles and their respective competency and salary raise
 | Architecting API and cloud resources | 0 |
 | Architecting frontend applications | 0 |
 
+## Examples
 
-
-
-
+If a [Junior Software Developer](./roles.md#junior-software-developer) learns skills A, B, and C, which give an increase of 5%, 7% and 10% respectively, their salary will increase 5% + 7% + 10% = 22%. Considering that the base salary for this role is 3000 BRL, the new salary will be 3000 * 1.22 = 3660 BRL.
