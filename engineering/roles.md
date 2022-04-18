@@ -34,7 +34,14 @@ They assume more straightforward tasks because they're still learning, gaining e
 
 They have more experience and higher knowledge and assume more complex tasks. They also know most of our company's technologies and have more responsibilities.
 
-Software developers have two directions for career progression: Senior Software Developers for a technical (keep coding career) or Tech Lead, for management and leadership paths.
+Software developers have two directions for career progression: Senior Software Developers for a technical (keep coding career) or Tech Lead for management and leadership paths.
+
+### Prerequisites
+
+- Basic knowledge of AWS.
+- React.js
+- GraphQL
+- TypeScript
 
 ## Senior Software Developer
 
