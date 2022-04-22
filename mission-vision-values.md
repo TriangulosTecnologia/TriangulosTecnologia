@@ -6,13 +6,13 @@
 
 > Desenvolver novos produtos e negócios digitais para pessoas que precisam de soluções tecnológicas com qualidade, criatividade e muito bom humor.
 
-Todo produto deve agregar valor para um determinado público. A nossa missão é descobrir estas características e criar produtos que sejam desejáveis, inovativos, lucrativos e tecnicamente viáveis. Existem diversas demandas para o desenvolvimento de uma solução, como criar uma startup, spin-off de pesquisa, melhorar um produto existente ou um processo. Chamamos isso de transformação digital.
+Todo produto deve agregar valor para um determinado público. A nossa missão é descobrir estas características e criar produtos desejáveis, inovativos, lucrativos e tecnicamente viáveis. Existem diversas demandas para o desenvolvimento de uma tecnologia, como criar uma startup, validar uma spin-off de pesquisas, melhorar um produto ou um processo. Chamamos isso de transformação digital.
 
 ### Visão
 
 > Ser uma empresa referência em processos de identificação de necessidades tecnológicas e criação de melhores oportunidades de investimento de risco.
 
-É primordial que estes processos de identificação e criações gerem melhores oportunidades de investimentos para todos os envolvidos, sejam eles os novos CEOs, time de desenvolvimento ou investidores. Criamos estas melhores oportunidades porque os nossos processos reduzirão os riscos da entrada em um mercado, como também porque teremos qualidade e velocidade para reagirmos às necessidades do mercado.
+É primordial que os processos gerem melhores oportunidades de investimentos para todos os envolvidos no projeto, sejam eles os novos CEOs, time de desenvolvimento ou investidores. Estes processos reduzem os riscos da entrada em um mercado e também geram qualidade nas entregas e velocidade para reagirmos às necessidades dos clientes.
 
 ### Valores
 
@@ -26,4 +26,4 @@ Acreditamos que o simples é o nível mais elevado e mais difícil de atingir no
 
 #### Autenticidade
 
-Acreditamos que a autenticidade de cada indivíduo é fundamental para a cultura da empresa. Pessoas autênticas agregam os seus valores e adicionam características únicas no time, fazendo com que todos criem novas perspectivas para resolver os nossos desafios.
+Acreditamos que a autenticidade de cada indivíduo é fundamental para a cultura da empresa. Pessoas autênticas agregam os seus valores e adicionam características únicas ao time, fazendo com que todos criem novas perspectivas para solucionar os desafios do dia a dia.
