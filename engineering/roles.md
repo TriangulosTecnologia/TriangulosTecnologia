@@ -11,6 +11,7 @@ We have six positions on the engineering team in our company related to full-sta
 - [Tech Lead](#tech-lead)
 - [CTO](#cto)
 
+[Check more about our career progression planning.](./career.md)
 
 ## Intern
 
