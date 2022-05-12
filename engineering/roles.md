@@ -6,7 +6,7 @@ We have six positions on the engineering team in our company related to full-sta
 
 - [Intern](#intern)
 - [Junior Software Developer](#junior-software-developer)
-- [Software Developer](#software-developer)
+- [Mid-Level Software Developer](#mid-level-software-developer)
 - [Senior Software Developer](#senior-software-developer)
 - [Tech Lead](#tech-lead)
 - [CTO](#cto)
@@ -31,11 +31,11 @@ They assume more straightforward tasks because they're still learning, gaining e
 - Git.
 - Basic knowledge of [Node.js](https://nodejs.org/en/) or [JavaScript](https://www.javascript.com/).
 
-## Software Developer
+## Mid-Level Software Developer
 
 They have more experience and higher knowledge and assume more complex tasks. They also know most of our company's technologies and have more responsibilities.
 
-Software developers have two directions for career progression: Senior Software Developers for a technical (keep coding career) or Tech Lead for management and leadership paths.
+Mid-Level Software developers have two directions for career progression: Senior Software Developers for a technical (keep coding career) or Tech Lead for management and leadership paths.
 
 ### Prerequisites
 
