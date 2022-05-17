@@ -30,20 +30,20 @@ The table below shows the roles and their respective competency and salary raise
 
 | Competency   |      Salary Raise (%)     |
 |----------|-------------:|
-| Create issues from user stories |  0 |
-| Communicate deliveries with the team | 0 |
-| Create documentation | 0 |
-| Unity tests | 0 |
-| End-to-end tests | 0 |
-| AWS DynamoDB | 0 |
-| AWS AppSync | 0 |
-| AWS Lambda | 0 |
-| GraphQL query language | 0 |
-| Storybook | 0 |
-| Relay | 0 |
-| Architecting database | 0 |
-| Architecting API and cloud resources | 0 |
-| Architecting frontend applications | 0 |
+| Create issues from user stories |  10% |
+| Communication | 7% |
+| Documentation | 5% |
+| Unity tests | 5% |
+| End-to-end tests | 7% |
+| AWS DynamoDB | 10% |
+| AWS AppSync | 7% |
+| AWS Lambda | 7% |
+| GraphQL query language | 10% |
+| Storybook | 5% |
+| Relay | 7% |
+| Architecting database | 15% |
+| Architecting API and cloud resources | 15% |
+| Architecting frontend applications | 15% |
 
 ## Examples
 
