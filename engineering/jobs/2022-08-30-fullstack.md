@@ -1,4 +1,4 @@
-# Kompass
+# Full-stack Web Developer
 
 Posted at: **August 3, 2022**
 
